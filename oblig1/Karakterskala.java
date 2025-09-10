@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Karakterskala2 {
+public class Karakterskala {
     
     public static void main(String[] args){
         // Variabler
