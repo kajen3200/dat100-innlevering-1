@@ -20,9 +20,8 @@ public class KarakterSkalaMedMetoder {
     private static final int SLUTT_E = 49;
     private static final int SLUTT_F = 39;
 
-    private static int antallStudenter = 10;
-    private static int[] poeng = new int[antallStudenter];
-    private static char[] karakter = new char[antallStudenter];
+    private static int[] poeng = new int[ANTALL_STUDENTER];
+    private static char[] karakter = new char[ANTALL_STUDENTER];
 
     public static void main(String[] args){
 
